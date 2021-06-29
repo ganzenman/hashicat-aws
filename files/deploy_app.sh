@@ -12,6 +12,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>4 kittens at Stefans house</h2></center>
   Looking very surprised to see an even bigger pussy as themselves.
+  Ok!
   <!-- END -->
 
   </div>
