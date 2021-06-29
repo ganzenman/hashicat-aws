@@ -27,7 +27,8 @@ resource "aws_subnet" "hashicat" {
 
   tags = {
     name = "${var.prefix}-subnet"
-    department = "devops"
+    Department = "devops"
+    Billable = "true"
   }
 }
 
